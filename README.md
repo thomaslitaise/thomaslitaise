@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @thomaslitaise
-- 👀 I’m interested in leveraging data science and analysis to drive innovative solutions and contribute effectively to organizational objectives.
-- 🌱 I’m currently learning advanced machine learning techniques and exploring new methodologies in data visualization.
-- 💞️ I’m looking to collaborate on projects related to predictive analytics, natural language processing, or computer vision.
+  
+- 👀 I’m Dynamic engineering graduate with dual degrees in Engineering Management and Engineering, specializing in data science and analysis.
+  
+- 🌱  I’m seeking a data science role in Sydney leveraging strong expertise in machine learning, data analysis, and project management.
+  
 - 📫 How to reach me: You can reach me via email at thomaslitaise@gmail.com or connect with me on LinkedIn.
